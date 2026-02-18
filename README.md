@@ -487,15 +487,6 @@ Each generated report includes:
 
 <div align="center">
 
----
 
-**UTM TRAFFIC MONITORING SYSTEM v5.2**
-
-Dual-Line Speed Detection  |  Vehicle Tracking  |  Real-time AI Analysis
-
-Built by **ABABAKER NAZAR**
-
-
----
 
 </div>
