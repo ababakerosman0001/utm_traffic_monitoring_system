@@ -1,9 +1,4 @@
-"""
-UTM Traffic Monitoring System
-Advanced Vehicle Detection, Tracking, Speed Estimation & AI Analysis
-Created by ABABAKER NAZAR
-OPTIMIZED VERSION - 3-5x FASTER
-"""
+
 
 import streamlit as st
 import cv2
@@ -1559,3 +1554,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
