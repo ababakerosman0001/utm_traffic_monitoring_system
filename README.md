@@ -2,15 +2,7 @@
 
 <div align="center">
 
-```
- _   _ _____ __  __   _____ ____      _    _____ _____ ___ ____
-| | | |_   _|  \/  | |_   _|  _ \    / \  |  ___|  ___|_ _/ ___|
-| | | | | | | |\/| |   | | | |_) |  / _ \ | |_  | |_   | | |
-| |_| | | | | |  | |   | | |  _ <  / ___ \|  _| |  _|  | | |___
- \___/  |_| |_|  |_|   |_| |_| \_\/_/   \_\_|   |_|   |___\____|
 
-      M O N I T O R I N G   S Y S T E M   v 5 . 2   O P T I M I Z E D
-```
 
 **Advanced Vehicle Detection  |  Dual-Line Speed Estimation  |  AI-Powered Analysis**
 
@@ -20,7 +12,7 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 [![License](https://img.shields.io/badge/License-MIT-8B0000?style=for-the-badge)](LICENSE)
 
-*Created by **ABABAKER NAZAR** | v5.2 OPTIMIZED -- 3-5x Faster*
+*Created by **ABABAKER NAZAR** *
 
 </div>
 
@@ -503,7 +495,6 @@ Dual-Line Speed Detection  |  Vehicle Tracking  |  Real-time AI Analysis
 
 Built by **ABABAKER NAZAR**
 
-`OPTIMIZED PERFORMANCE -- 3-5x FASTER`
 
 ---
 
