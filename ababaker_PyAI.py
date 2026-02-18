@@ -376,7 +376,7 @@ st.markdown("""
 def initialize_gemini():
     try:
         from google import genai
-        return genai.Client(api_key="AIzaSyCr36WRDdwor7o5K3ThqgaEP3_RN8AyP7M")
+        return genai.Client(api_key=)
     except:
         return None
 
@@ -1557,4 +1557,5 @@ st.markdown("""
     <p style="font-size: 0.95rem; opacity: 0.8;">Dual-Line Speed Detection • Vehicle Tracking • Real-time Analysis</p>
     <p style="color: #8B0000; font-weight: bold; font-size: 1.2rem; margin-top: 15px;">OPTIMIZED PERFORMANCE</p>
 </div>
+
 """, unsafe_allow_html=True)
